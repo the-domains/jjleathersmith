@@ -1,7 +1,7 @@
 name: JJLeathersmith
 favicon: null
-layout_spectrum: 0.52155
-typography_spectrum: 0.69759
+layout_spectrum: 0.01767
+typography_spectrum: 0.7183
 title: JJ Leathersmith
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#ff7d44'
-    - '#511f00'
-    - '#837f75'
-    - '#a0d9f4'
+    - '#d4e8ec'
+    - '#88acb8'
+    - '#120b05'
+    - '#c04c30'
+    - '#f3bc99'
   brandStrength: 0
   lightness: 0.4375
-  saturation: 0.9375
-  rhythmicContrast: 0
+  saturation: 0.875
+  rhythmicContrast: 0.5
 purpose: []

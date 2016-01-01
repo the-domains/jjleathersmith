@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://jjleathersmith.com'
   name: JJ Leathersmith
-  favicon: 'http://jjleathersmith.com/favicon.ico'
   domain: jjleathersmith.com
+  url: 'http://jjleathersmith.com'
+  favicon: 'http://jjleathersmith.com/favicon.ico'
 keywords:
   - roll-top
   - 42cm
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://jjleathersmith.com/shop/the-emily-oversized-leather-tote-bag'
 title: 'THE EMILY: OVERSIZED LEATHER TOTE BAG'
-datePublished: '2016-01-01T23:28:28.578Z'
-dateModified: '2016-01-01T23:27:03.774Z'
+datePublished: '2016-01-01T23:34:03.288Z'
+dateModified: '2016-01-01T23:32:16.285Z'
 sourcePath: _posts/2016-01-01-the-emily-oversized-leather-tote-bag.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
